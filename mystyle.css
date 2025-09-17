@@ -2,7 +2,7 @@
 
 
 body {
-        background-image: url(resources/bg\ friut.png) ; 
+        background-image: url(./resources/bg\ friut.png) ; 
         background-size: 100%;
         backdrop-filter: blur(3.5px);
         padding: 30pX 20pX 20px 30px ;
