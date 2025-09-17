@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Jua&family=Mogra&family=Playpen+Sans+Thai:wght@100..800&display=swap');
+
+
+body {
+        background-image: url(resources/bg\ friut.png) ; 
+        background-size: 100%;
+        backdrop-filter: blur(3.5px);
+        padding: 30pX 20pX 20px 30px ;
+        height:100% ;
+      }
+
+
+
+  header {
+    background-color: #e2c1d82a; 
+    padding: 10px; 
+    text-align: center; 
+    border-top: 1px solid #dd6de718; 
+    margin: 50px;
+  }
+
+  .Drink{    
+    font-family: "Mogra", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #3700ff;
+    background-color: rgba(230, 140, 144, 0.5);
+
+  }
+
+  h2{
+    background-color: rgba(255, 255, 255, 0.39);
+    width: 150px;              
+    height: 50px;            
+    border: 1px solid rgb(255, 255, 255);
+    color: rgb(3, 2, 2);
+    font-family: "Mogra", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    
+
+  }
+
+
+
+
+
+img {
+  width: 250px;
+  height: 300px;
+}
+
+
+.apple{
+  font-size: 30px;
+  text-align: center;
+  font-family: "Jua", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px;
+  color: rgb(36, 2, 44);
+}
+
+
+.app{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  text-align: center;
+  font-family: "Playpen Sans Thai" ;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  
+  
+  
+}
+
+
+.ple{
+  background-color: rgb(215, 188, 233);
+  border: none;
+  width: 30 px;
+  height: 60px;
+  box-shadow: 5px 5px 5px rgb(248, 151, 151);
+  border-radius: 25px;
+  margin: 30px;
+  font-family: "Mogra", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 17px;
+
+}
+
+.dit{
+  font-size: 30px;
+  text-align: center;
+  font-family: "Jua", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px;
+  color: rgb(36, 2, 44)
+}
+
+.price{
+  text-align: center;
+  font-family: "Jua", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 32px;
+  color: rgb(207, 216, 241);
+
+}
+
+.where{
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-shadow: 3px 6px 2px rgba(226, 0, 0, 0.233);
+  padding: 10px;
+  margin: auto;
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 20px;
+  text-shadow : 5px 5px 5px rgb(63, 61, 61);
+}
+
+
